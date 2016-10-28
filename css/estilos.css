@@ -1,7 +1,13 @@
-estilos.css
-
 .header{
 
 	text-align:center;
 
 }
+
+@media(max-width: 1200px)
+{body{background:#E3000E;}}
+
+@media(max-width: 700px) 
+{body {background:#EEE657;}}
+
+@media {body {background:#2CC990;}}
